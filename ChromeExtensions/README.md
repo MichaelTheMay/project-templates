@@ -1,0 +1,1 @@
+These are all the templates I have saved for developing with chrome extensions
